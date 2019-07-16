@@ -1,0 +1,902 @@
+[
+	{
+		"licensee": "1 Verge Internet Technology",
+		"number": "69957",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1 Verge Internet Technology",
+		"number": "62517",
+		"category": "Canadian",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1490 Ontario INC",
+		"number": "36607",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "3 Play Media Inc",
+		"number": "38360",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "45065",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "39760",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "TV Cube",
+		"number": "77987",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "13 TV, SA",
+		"number": "76205",
+		"category": "International",
+		"type": "Internal",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "3+Group AG",
+		"number": "52365",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "A&E OLE TV",
+		"number": "64841",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "3+Group AG",
+		"number": "09585",
+		"category": "International",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "3 Play Media Inc",
+		"number": "56409",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "76322",
+		"category": "International",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "13 TV, SA",
+		"number": "14148",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "365 Media",
+		"number": "37818",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "360 Solutions",
+		"number": "31930",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "360 Solutions",
+		"number": "42454",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "National Sports Channel LLC",
+		"number": "80079",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Canada Inc",
+		"number": "04154",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1490 Ontario INC",
+		"number": "24881",
+		"category": "Canadian",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "26560",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Canada Inc",
+		"number": "33280",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Canada Inc",
+		"number": "62847",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Energy TV Limited Liability Company",
+		"number": "89363",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Energy TV Limited Liability Company",
+		"number": "67629",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "61780",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1490 Ontario INC",
+		"number": "28836",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "360 Solutions",
+		"number": "28831",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "39271",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "National Sports Channel LLC",
+		"number": "08611",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Canada Inc",
+		"number": "42968",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "10392",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "04481",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "65188",
+		"category": "International",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Energy TV Limited Liability Company",
+		"number": "52636",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "13 TV, SA",
+		"number": "91445",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "32097",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "30004",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "365 Media",
+		"number": "80549",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "46094",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "360 Solutions",
+		"number": "68235",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "3 Play Media Inc",
+		"number": "58466",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "TV Cube",
+		"number": "61093",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "TV Cube",
+		"number": "28632",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "National Sports Channel LLC",
+		"number": "78501",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1 Verge Internet Technology",
+		"number": "36343",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "A&E OLE TV",
+		"number": "88565",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "3 Play Media Inc",
+		"number": "76371",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "25236",
+		"category": "Canadian",
+		"type": "Internal",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Energy TV Limited Liability Company",
+		"number": "54782",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "47972",
+		"category": "Canadian",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Energy TV Limited Liability Company",
+		"number": "87113",
+		"category": "Canadian",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "A&E Networks",
+		"number": "01245",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "",
+		"number": "37368",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1 Verge Internet Technology",
+		"number": "72103",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1 Verge Internet Technology",
+		"number": "30845",
+		"category": "International",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "13 TV, SA",
+		"number": "16813",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "TV Cube",
+		"number": "87825",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "29342",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1 Verge Internet Technology",
+		"number": "92944",
+		"category": "Latin America",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "A&E Networks",
+		"number": "37985",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "42564",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Energy TV Limited Liability Company",
+		"number": "72718",
+		"category": "International",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "A&E Networks",
+		"number": "25266",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Energy TV Limited Liability Company",
+		"number": "26649",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "13 TV, SA",
+		"number": "48574",
+		"category": "Canadian",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "48648",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "360 Solutions",
+		"number": "55378",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "3+Group AG",
+		"number": "36186",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "TV Cube",
+		"number": "53843",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "360 Solutions",
+		"number": "00311",
+		"category": "International",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "",
+		"number": "06278",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Energy TV Limited Liability Company",
+		"number": "28755",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "98070",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "A&E OLE TV",
+		"number": "31716",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "44189",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "365 Media",
+		"number": "23157",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "360 Solutions",
+		"number": "74353",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "A&E OLE TV",
+		"number": "05079",
+		"category": "Canadian",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "TV Cube",
+		"number": "76470",
+		"category": "Canadian",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "365 Media",
+		"number": "43470",
+		"category": "International",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Canada Inc",
+		"number": "64596",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "365 Media",
+		"number": "51740",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "National Sports Channel LLC",
+		"number": "53406",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1490 Ontario INC",
+		"number": "50142",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1 Verge Internet Technology",
+		"number": "00111",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "360 Solutions",
+		"number": "76069",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "National Sports Channel LLC",
+		"number": "21323",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1490 Ontario INC",
+		"number": "24324",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "3+Group AG",
+		"number": "45793",
+		"category": "Latin America",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "TV Cube",
+		"number": "31277",
+		"category": "Latin America",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Telekompaniya ERA",
+		"number": "03582",
+		"category": "Canadian",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "A&E Networks",
+		"number": "62879",
+		"category": "Vendor",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "3+Group AG",
+		"number": "39837",
+		"category": "Domestic",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1 Verge Internet Technology",
+		"number": "73060",
+		"category": "International",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "1 Verge Internet Technology",
+		"number": "56656",
+		"category": "Latin America",
+		"type": "Internal",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Energy TV Limited Liability Company",
+		"number": "87863",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Canada Inc",
+		"number": "27101",
+		"category": "Vendor",
+		"type": "External",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "2g Digital Post Inc.",
+		"number": "70654",
+		"category": "Canadian",
+		"type": "External",
+		"recipientType": "Vendor",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	},
+	{
+		"licensee": "Canada Inc",
+		"number": "46292",
+		"category": "Domestic",
+		"type": "Internal",
+		"recipientType": "Licensee",
+		"techInstructions": "View",
+		"tlOnly": "-"
+	}
+]
